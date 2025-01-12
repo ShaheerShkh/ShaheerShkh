@@ -3,7 +3,7 @@
 <h2>👨‍💻 CSN Projects:</h2>
 
 
-  - [Active Directory Home Lab](https://1drv.ms/w/c/b9a1e3cee0663589/EVBEMTyeTJNMqPmqRkygbLsBxQjMy_HEBqw5PZRlPoWvuw?e=aJTWY5) IT Infrastructure Design and Security with Windows Server 2022
+  - [IT Infrastructure Design and Security with Windows Server 2022](https://1drv.ms/w/c/b9a1e3cee0663589/EVBEMTyeTJNMqPmqRkygbLsBxQjMy_HEBqw5PZRlPoWvuw?e=aJTWY5) 
 
 This project demonstrates the design, implementation, and enhancement of a secure IT infrastructure for a fictitious company using Windows Server 2022. The setup included a Domain Controller with DNS, a DHCP server, a File Server with shared folders, and a WSUS server for centralized updates. Active Directory was structured using Organizational Units (OUs) and the AGDLP methodology to enforce role-based access control.
 
