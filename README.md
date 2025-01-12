@@ -3,7 +3,7 @@
 <h2>👨‍💻 CSN Projects:</h2>
 
 
-  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Active Directory Home Lab](file:///C:/Users/shahe/OneDrive/Documents/IT-Infrastructure-Document%20(2).pdf)
 
 <h2> 📜 Education </h2>
 
