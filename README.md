@@ -15,7 +15,7 @@ This project highlights expertise in Windows Server administration, Active Direc
 
 <h2> 📜 Education </h2>
 
-- BAIT: Systems Networking & Cybersecurity (https://www.youtube.com/watch?v=a83ASGn_V_s)
+- BAIT: Systems Networking & Cybersecurity (https://www.cna.nl.ca/program/bachelor-of-applied-information-technology-systems-and-network-cyber-security)
       
 
 <h2>📺 Popular YouTube Videos</h2>
